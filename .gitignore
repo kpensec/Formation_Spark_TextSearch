@@ -13,3 +13,7 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 tcl
+
+# scala ignore
+project
+target
