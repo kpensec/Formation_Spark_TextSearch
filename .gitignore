@@ -15,5 +15,8 @@ pip-selfcheck.json
 tcl
 
 # scala ignore
-project
-target
+target/
+.ensime_cache/
+.ensime
+ensime-langserver.log
+pc.stdout.log
